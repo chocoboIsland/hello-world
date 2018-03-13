@@ -1,0 +1,2 @@
+text 4 init
+by test2
